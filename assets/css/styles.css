@@ -3,7 +3,7 @@ p {
 }
 
 
-
+/* menu */
 li {
 
     display: inline-block;
@@ -24,3 +24,10 @@ nav {
     text-align: center;
 }
   
+/* main page*/
+
+#mainpage {
+    background: url("../images/gorilla\ close\ up.jpg")
+    background-color: blue;
+
+}
