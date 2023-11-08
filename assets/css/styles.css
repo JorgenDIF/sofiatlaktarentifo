@@ -1,0 +1,26 @@
+p {
+    color: blue;
+}
+
+
+
+li {
+
+    display: inline-block;
+    float: none;
+    position: relative;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    margin-left: 10px;
+    
+    
+    
+}
+ul {
+    list-style-type: none;
+}
+
+nav {
+    text-align: center;
+}
+  
