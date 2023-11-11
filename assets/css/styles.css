@@ -47,7 +47,19 @@ font-family:Edu TAS Beginner,cursive;
 }
 
 .active {
-    border-bottom: 1px solid #000095
+    border-bottom: 1px solid #000095;
+}
+
+/*dropdown navbar*/
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #000095;
+    display: none;
+    top: 100%;
 }
 
 main {
