@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap');
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -16,6 +18,11 @@ body {
 }
 header {
     background-color: blue;
+    
+}
+
+header h2{
+    font-family: Edu TAS Beginner,cursive;
 }
 
 main {
