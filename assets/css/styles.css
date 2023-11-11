@@ -13,7 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     /*generic style*/
-    color: fuchsia
+    color: #000095
 
 }
 header {
@@ -31,8 +31,23 @@ header a {
 }
 
 h1{
-    font-family:Edu TAS Beginner ;
+    font-family:Edu TAS Beginner,cursive;
     color: #000095
+}
+
+#menu {
+font-size: 120%;
+list-style-type: none;
+font-family:Edu TAS Beginner,cursive;
+
+}
+
+#menu li{
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #000095
 }
 
 main {
