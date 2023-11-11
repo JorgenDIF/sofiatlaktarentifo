@@ -1,33 +1,18 @@
-p {
-    color: blue;
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
-
-/* menu */
-li {
-
-    display: inline-block;
-    float: none;
-    position: relative;
-    font-size: 1.5rem;
-    font-weight: bolder;
-    margin-left: 10px;
-    
-    
-    
-}
-ul {
-    list-style-type: none;
-}
-
-nav {
-    text-align: center;
-}
-  
-/* main page*/
-
-#mainpage {
-    background: url("../images/gorilla\ close\ up.jpg")
+header {
     background-color: blue;
+}
 
+main {
+background-color: yellow;
+}
+
+footer {
+background-color: red;
 }
