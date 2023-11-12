@@ -70,6 +70,15 @@ nav {
     display: block;
 }
 
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+font-size: 2rem;
+}
+
+
 main {
 background-color: yellow;
 /* push the footer down*/
