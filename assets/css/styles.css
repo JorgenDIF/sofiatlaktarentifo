@@ -13,6 +13,16 @@ body {
     flex-direction: column;
 }
 
+/* The header */
+header {
+    margin: 10px 0 0 10px;
+    display: flex;
+}
+
+header > h3 {
+margin: 20px 0 0 15px;
+}
+
 /*main*/
 main {
     color:blue;
@@ -22,4 +32,26 @@ main {
 /*footer*/
 footer  {
     color: yellow;
+}
+/* the menu*/
+#menu {
+    display: flex;
+    justify-content: center;  
+    gap: 5px;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+a  {
+    text-decoration: none;
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+
+   
+
+    }
+
+
 }
