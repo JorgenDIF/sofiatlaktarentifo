@@ -92,7 +92,8 @@ main {
 
 /*footer*/
 footer {
-    color: blue;
+    color: yellow;
+    text-decoration: none;
 
 
 }
@@ -101,13 +102,14 @@ footer {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-   
-   
-  
-   
+    font-size: 300%
+    
     
 }
 
+.logodif img{
+    margin-top: 1px;
+}
 
 
 /* Media query: less than 460px*/
