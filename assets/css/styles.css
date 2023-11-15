@@ -103,6 +103,11 @@ footer {
     justify-content: space-evenly;
     list-style-type: none;
     font-size: 300%
+} 
+    
+ #footer-items i {
+    color:black;
+   
     
     
 }
