@@ -13,6 +13,16 @@ body {
     flex-direction: column;
 }
 
+/* header */
+
+.headcontainer {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 40px;
+}
+
+
 /*navbar*/
 
 .navbar {
@@ -30,7 +40,7 @@ body {
 
 .links_navbar ul {
     margin: 0px;
-    padding 0px;
+    padding: 0px;
     display: flex;
 }
 
@@ -54,7 +64,7 @@ body {
 
 .toggle-button {
     position: absolute;
-    top: .75rem;
+    top: 1.15rem;
     right: 1rem;
     display: none;
     flex-direction: column;
@@ -68,7 +78,10 @@ body {
     width: 100%;
     background-color: blue;
     border-radius: 10px;
+   
 }
+
+
 
 
 /*main*/
