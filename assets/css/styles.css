@@ -91,7 +91,7 @@ footer {
     }
 
     .links_navbar {
-   /*display: none; */
+   display: none; 
    width: 100%;
     }
 
@@ -111,5 +111,9 @@ footer {
 
     .links_navbar li a {
         padding: .5rem 1rem;
+    }
+
+    .links_navbar.active {
+        display: flex;
     }
 }
