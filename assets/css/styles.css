@@ -33,8 +33,12 @@ body {
 
 }
 
+a:active {
+    background-color: yellow;
+  }
+
 .sitetitle {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     margin: .5rem;
 }
 
@@ -89,8 +93,9 @@ main {
 
 /*footer*/
 footer {
-    color: yellow;
+    color: blue;
     text-decoration: none;
+    background-color: yellow;
 
 
 }
@@ -100,6 +105,7 @@ footer {
     justify-content: space-evenly;
     list-style-type: none;
     font-size: 200%
+    
 } 
     
  #footer-items i {
