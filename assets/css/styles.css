@@ -81,9 +81,6 @@ body {
 
 }
 
-
-
-
 /*main*/
 main {
     color: blue;
@@ -102,7 +99,7 @@ footer {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    font-size: 300%
+    font-size: 200%
 } 
     
  #footer-items i {
