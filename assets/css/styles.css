@@ -96,9 +96,19 @@ footer {
     
 
 }
+    #footer-items {
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   list-style-type: none;
+    }
 
+   #footer-items img {
 
-/* Media query: less than 430px*/
+  margin-top: 2px;
+   }
+
+   /* Media query: less than 430px*/
 @media  (max-width: 430px) {
 
     .toggle-button {
