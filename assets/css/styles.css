@@ -91,8 +91,25 @@ footer {
     }
 
     .links_navbar {
-   display: none;
+   /*display: none; */
+   width: 100%;
     }
 
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start
+    }
 
+    .links_navbar ul {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .links_navbar li {
+        text-align: center; 
+    }
+
+    .links_navbar li a {
+        padding: .5rem 1rem;
+    }
 }
