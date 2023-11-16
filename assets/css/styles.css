@@ -11,6 +11,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    background-color: #064789;
 }
 
 /* header */
@@ -21,6 +22,7 @@ body {
     align-items: center;
     gap: 40px;
     padding: 3% 0 3% 3%;
+    background-color: white;
 }
 
 
@@ -30,17 +32,17 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: grey;
-
+    background-color: #427AA1
 }
 
 a:active {
     background-color: yellow;
-  }
+}
 
 .sitetitle {
     font-size: 2.5rem;
     margin: .5rem;
+    
 }
 
 .links_navbar ul {
@@ -55,7 +57,7 @@ a:active {
 
 .links_navbar li a {
     text-decoration: none;
-    color: blue;
+    color: white;
     padding: 1rem;
     display: block;
 }
@@ -81,7 +83,7 @@ a:active {
 .toggle-button .bar {
     height: 3px;
     width: 100%;
-    background-color: blue;
+    background-color: #064789;
     border-radius: 10px;
 
 }
@@ -94,11 +96,10 @@ main {
 
 /*footer*/
 footer {
-    color: blue;
     text-decoration: none;
-    background-color: yellow;
+    background-color: white;
     padding: 3% 0 3% 0;
-    
+
 
 
 }
@@ -108,18 +109,16 @@ footer {
     justify-content: space-evenly;
     list-style-type: none;
     font-size: 200%
-    
-    
-} 
-    
- #footer-items i {
-    color:black;
-   
-    
-    
 }
 
-.logodif img{
+#footer-items i {
+    color: #064789;
+
+
+
+}
+
+.logodif img {
     margin-top: 1px;
 }
 
