@@ -71,7 +71,7 @@ a:active {
 
 .toggle-button {
     position: absolute;
-    top: 1.15rem;
+    top: 1.60rem;
     right: 1rem;
     display: none;
     flex-direction: column;
