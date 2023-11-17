@@ -94,6 +94,29 @@ main {
     flex: 1;
 }
 
+.tifo1container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    width: 100%;
+    justify-content: center;
+    
+}
+
+.tifo1container img {
+
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+    object-position: bottom;
+    padding: 5px;
+    border-radius: 25px;
+    
+}
+
+
+
+
 /*footer*/
 footer {
     text-decoration: none;
