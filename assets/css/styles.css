@@ -93,6 +93,24 @@ main {
     flex: 1;
 }
 
+/*the headline*/
+
+    
+.headline  {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+   
+    
+}
+.headline h1 {
+    padding :5px 10px 5px 10px;
+    border: #427AA1 solid 2px;
+    
+    border-radius: 25px;
+}
+
 /*the maincontainer*/
 .indexcontainer {
     position: relative;
@@ -100,8 +118,13 @@ main {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    margin-top: 40px;
     
 }
+
+
+
+
 
 /*the maintext container*/
 .indextext {
@@ -114,22 +137,21 @@ main {
     text-align: center;
     font-size: 20px;
     background: rgba(222, 182, 29, 0.5);
+    border: #427AA1 solid 2px;
     padding: 1rem 1rem 1rem 1rem;
-    border-radius: 15px;
-    width: fit-content        
+   border-radius: 15px;
+    width: fit-content ;      
     height:fit-content;
-    
+    }
 
-}
+    
 .indexcontainer img {
 
     width: 100%;
     height: auto;
-    border-radius: 25px;
-}
-.indexcontainer p {
     
 }
+
 
 /*tifo 123*/
 
