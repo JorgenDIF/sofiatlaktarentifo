@@ -89,15 +89,21 @@ a:active {
 }
 
 /*main*/
+
+
 main {
     color: blue;
     flex: 1;
 }
 
+.homecontainer{
+    
+}
+
 .tifo1container {
     display: flex;
     flex-wrap: wrap;
-    max-width: 1200px;
+    max-width: 100%;
     width: 100%;
     justify-content: center;
     
@@ -108,7 +114,7 @@ main {
     width: 500px;
     height: 300px;
     object-fit: cover;
-    object-position: bottom;
+    object-position: center;
     padding: 5px;
     border-radius: 25px;
     
@@ -120,7 +126,7 @@ main {
 /*footer*/
 footer {
     text-decoration: none;
-    background-color: white;
+    background-color: yellow;
     padding: 3% 0 3% 0;
 
 
