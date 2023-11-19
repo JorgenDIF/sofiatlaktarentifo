@@ -105,11 +105,11 @@ main {
 }
 
 .tifo1container img {
-    width: 600px;
-    height: 400px;
+    width: 80%;
+    height: 80%    
     border-radius: 25px;
 
-}
+};
 
 
 
