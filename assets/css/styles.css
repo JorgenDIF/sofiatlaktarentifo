@@ -112,18 +112,26 @@ main {
 
 /*the maincontainer*/
 .indexcontainer {
+    position: relative;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding-top: 2px;
+    border: #064789 solid 2px;
+    margin-top: 10px;
+    font-weight: bold;
+    width: fit-content;
+    border-radius: 15px;
     
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
+    
 
 }
 
 /*the maintext container*/
 .indextext {
-    position: absolute;
-    top: 30%;
+    position: relative;
+    top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
@@ -134,8 +142,8 @@ main {
     border: #427AA1 solid 2px;
     padding: 1rem 1rem 1rem 1rem;
     border-radius: 15px;
-    width: fit-content;
-    height: fit-content;
+    width: 70%;
+    
 }
 
 /*tifo 123*/
@@ -226,9 +234,7 @@ footer {
         display: flex;
     }
 
-    .indextext p {
-        font-size: 70%;
-    }
+   
 
 
 }
@@ -241,9 +247,6 @@ footer {
         display: none
     }
 
-    .indextext {
-        width: 90%;
-        padding: 1px 1px 1px 1px;
-    }
+    
 
 }
