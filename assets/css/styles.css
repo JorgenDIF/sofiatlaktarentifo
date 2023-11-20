@@ -36,7 +36,7 @@ body {
     align-items: center;
     background-color: #6090d1;
     font-family: Arial, Helvetica, sans-serif;
-    
+
 }
 
 a:active {
@@ -76,7 +76,7 @@ a:active {
 
 .toggle-button {
     position: absolute;
-    top:  1.2rem;
+    top: 1.2rem;
     right: 1rem;
     display: none;
     flex-direction: column;
@@ -95,17 +95,21 @@ a:active {
 
 /*the main site*/
 
-    
+/*main*/
+main {
+    background: url("../images/sofiatifotifoback.jpeg") no-repeat center center/cover;
+    flex: 1;
+}
 
 
 /*the indexsection*/
 #indexmain {
-    background: url("../images/sofiatifotifoback.jpeg") no-repeat center center/cover;
+   
     height: 600px;
     width: 100%;
     position: relative;
-    
-   
+
+
 
 }
 
@@ -128,8 +132,8 @@ a:active {
     max-width: 70%;
     font-size: clamp(0.9rem, 2.5vw, 1.2rem);
     font-family: Arial, Helvetica, sans-serif;
-    
-    
+
+
 
 }
 
@@ -146,8 +150,8 @@ a:active {
     padding: 1rem 1rem 1rem 1rem;
     border-radius: 15px;
     max-width: 70%;
-    
-    
+
+
 }
 
 /*tifo 123*/
@@ -171,26 +175,12 @@ a:active {
 }
 
 
-
-
-
-/*footer*/
-footer {
-    text-decoration: none;
-    
-
-
-
-
-}
-
 #footer-items {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
     font-size: 200%;
-    padding: 1rem 0 1rem 0;
-    background-color: #6090d1;
+background-color: #6090d1;
 
 }
 
@@ -242,7 +232,7 @@ footer {
         display: none
     }
 
-    
+
 
 
 }
@@ -251,10 +241,10 @@ footer {
 
 @media (min-width: 521px) {
 
-   .sitetitle {
-    display: none;
-   }
+    .sitetitle {
+        display: none;
+    }
 
-    
+
 
 }
