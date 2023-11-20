@@ -11,8 +11,8 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    
-    
+
+
 }
 
 /* header */
@@ -43,7 +43,7 @@ a:active {
 .sitetitle {
     font-size: 2.5rem;
     margin: .5rem;
-    
+
 }
 
 .links_navbar ul {
@@ -88,6 +88,7 @@ a:active {
     border-radius: 10px;
 
 }
+
 /*the main site*/
 main {
     color: blue;
@@ -95,46 +96,29 @@ main {
 }
 
 /*the indexsection*/
-#indexmain  {
+#indexmain {
     background: url("../images/sofiatifotifoback.jpeg") no-repeat center center/cover;
     height: 600px;
     width: 100%;
     position: relative;
+
 }
 
-
-/*the headline*/
-
-    
-.headline  {
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    margin-top: 10px;
-   
-    
-}
 .headline h1 {
-    padding :5px 10px 5px 10px;
+    padding: 5px 10px 5px 10px;
     border: #427AA1 solid 2px;
-    
     border-radius: 25px;
 }
 
 /*the maincontainer*/
 .indexcontainer {
-    position: relative;
+    
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    margin-top: 40px;
-    
+
 }
-
-
-
-
 
 /*the maintext container*/
 .indextext {
@@ -149,34 +133,25 @@ main {
     background: rgba(222, 182, 29, 0.5);
     border: #427AA1 solid 2px;
     padding: 1rem 1rem 1rem 1rem;
-   border-radius: 15px;
-    width: fit-content ;      
-    height:fit-content;
-    }
-
-    
-.indexcontainer img {
-
-    width: 100%;
-    height: auto;
-    
+    border-radius: 15px;
+    width: fit-content;
+    height: fit-content;
 }
-
 
 /*tifo 123*/
 
-.tifo1container  {
+.tifo1container {
     display: flex;
     width: 100%;
     flex-wrap: wrap;
     justify-content: center;
     padding: 5% 5% 5% 5%;
-    
+
 
 }
 
 .tifo1container img {
-    
+
     width: 100%;
     height: 100%;
     border-radius: 25px;
@@ -191,7 +166,7 @@ main {
 footer {
     text-decoration: none;
     background-color: yellow;
-    
+
 
 
 
@@ -204,14 +179,11 @@ footer {
     font-size: 200%;
     padding: 1rem 0 1rem 0;
     background-color: yellowgreen;
-    
+
 }
 
 #footer-items i {
     color: white
-
-
-
 }
 
 .logodif img {
@@ -221,7 +193,8 @@ footer {
 
 /* Media query: less than 520px*/
 @media (max-width: 520px) {
-/*hamburger menu*/
+
+    /*hamburger menu*/
     .toggle-button {
         display: flex;
     }
@@ -253,9 +226,9 @@ footer {
         display: flex;
     }
 
-.indextext p{
-    font-size: 70%;
-}
+    .indextext p {
+        font-size: 70%;
+    }
 
 
 }
@@ -264,15 +237,13 @@ footer {
 
 @media (max-width: 400px) {
 
-.headcontainer h2 {
-    display:none
+    .headcontainer h2 {
+        display: none
+    }
+
+    .indextext {
+        width: 90%;
+        padding: 1px 1px 1px 1px;
+    }
 
 }
-
-.indextext {
-    width:90%;
-    padding: 1px 1px 1px 1px;
-}
-
-}
-
