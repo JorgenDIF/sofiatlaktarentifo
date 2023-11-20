@@ -11,7 +11,8 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    background-color: #064789;
+    
+    
 }
 
 /* header */
@@ -87,11 +88,20 @@ a:active {
     border-radius: 10px;
 
 }
-/*the maine site*/
+/*the main site*/
 main {
     color: blue;
     flex: 1;
 }
+
+/*the indexsection*/
+#indexmain  {
+    background: url("../images/sofiatifotifoback.jpeg") no-repeat center center/cover;
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+
 
 /*the headline*/
 
