@@ -158,7 +158,7 @@ main {
         
     }
     .whatistifo p {
-        text-align: center,left;
+        text-align: center;
         font-size: 0.9rem;
      }
 
@@ -174,7 +174,7 @@ main {
     }
 
         .whatisdif p {
-            text-align: center,left;
+            text-align: center;
             font-size: 0.9rem;
          }
     
@@ -191,7 +191,7 @@ main {
             
         }
         .whatissofia p {
-            text-align: center,left;
+            text-align: center;
             font-size: 0.9rem;
          }
         
@@ -200,9 +200,10 @@ main {
 
 .tifo1container {
     display: flex;
-    width: 100%;
-    flex-wrap: wrap;
-    justify-content: center;
+    width: auto;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
     padding: 5% 5% 5% 5%;
 
 
