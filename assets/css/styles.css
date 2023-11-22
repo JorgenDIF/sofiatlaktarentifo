@@ -11,6 +11,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    font-size: calc(15px + 0.390625vw);
 
 
 }
@@ -98,13 +99,7 @@ body {
 main {
     background: url("../images/sofiatifotifoback.jpeg") no-repeat center center/cover;
     flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
 }
-
-
-
 
 
 .headline h1 {
@@ -122,11 +117,14 @@ main {
     font-weight: bold;
    font-family: Arial, Helvetica, sans-serif;
 
-
-
 }
-.indexcontainer h1{
+
+
+.indexcontainer h2{
     text-align: center;
+    padding: 1rem 0 1rem 0;
+    
+
 }
 
 /*the maintext container*/
@@ -134,11 +132,10 @@ main {
     
    display: flex;
     flex-direction: column;
-    align-items: center;
     color: black;
    font-family: Arial, Helvetica, sans-serif;
-   margin-top: 5px;
-   padding: 5px 5px 5px 5px;
+   margin-top: 1em;
+   padding: 1em 1em 1em 1em;
    
 
 }
@@ -153,13 +150,13 @@ main {
         justify-content: space-between;
         color: black;
         font-family: Arial, Helvetica, sans-serif;
-        margin: 2px 2px 2px 2px;
+        margin: 1em 1em 1em 1em;
         
         
     }
     .whatistifo p {
         text-align: center;
-        font-size: 0.9rem;
+        
      }
 
      .whatisdif {
@@ -175,7 +172,7 @@ main {
 
         .whatisdif p {
             text-align: center;
-            font-size: 0.9rem;
+            
          }
     
 
@@ -192,7 +189,7 @@ main {
         }
         .whatissofia p {
             text-align: center;
-            font-size: 0.9rem;
+            
          }
         
         
@@ -277,10 +274,7 @@ main {
     }
 
 
-
-
 }
-
 
 
 @media (min-width: 521px) {
@@ -294,7 +288,7 @@ main {
 
 }
 
-@media (min-width: 1025px) {
+@media (min-width: 1024px) {
 
     .indextext {
         flex-direction: row;
