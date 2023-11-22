@@ -19,6 +19,8 @@ body {
 /* header */
 
 .headcontainer {
+    background: url("../images/sofialaktarenbanner-pinterestfixed.jpeg") no-repeat center center/cover;
+    opacity: 5;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -137,7 +139,7 @@ flex-wrap: wrap;
 .main-images img {
     width: 240px;
     height: 160px;
-    padding: 1em 1em 1em 1em;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
     border-radius: 25px;
 }
 
