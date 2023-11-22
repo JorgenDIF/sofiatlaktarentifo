@@ -21,6 +21,7 @@ body {
 .headcontainer {
     background: url("../images/sofialaktarenbanner-pinterestfixed.jpeg") no-repeat center center/cover;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
 
@@ -73,7 +74,7 @@ body {
 
 .toggle-button {
     position: absolute;
-    top: 1.2rem;
+    top: 0.7rem;
     right: 1rem;
     display: none;
     flex-direction: column;
@@ -146,8 +147,8 @@ main {
     flex-direction: column;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: 1em;
-    padding: 1em 1em 1em 1em;
+    margin: 5% 5% 5% 5%;
+    padding: 1rem 1rem 1rem 1rem;
 
 
 }
@@ -207,7 +208,7 @@ main {
 
 
 /*tifo 1 header*/
-.tifo1header {
+.tifoheader {
    
     display: flex;
     justify-content: center;
@@ -225,7 +226,7 @@ main {
 
 /*tifo 123*/
 
-.tifo1container {
+.tifocontainer {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -237,16 +238,27 @@ main {
 
 }
 
-.tifo1container img {
+.tifocontainer img {
 
     width: 280px;
     height: 100%;
     border-radius: 25px;
     padding: 2px 2px 2px
 }
-.tifo1-video {
+
+/*bold headers*/
+
+.bold-header {
+ font-weight: bold;
+
+}
+
+
+/*youtube videos settings*/
+.tifo-video {
     display: flex;
    justify-content: center;
+   align-items: center;
     aspect-ratio: 16 / 9;
     padding: 1rem 1rem 1rem 1rem;
     
@@ -254,9 +266,9 @@ main {
 
     
   }
-  .tifo1-video iframe {
-    max-width: 100%;
-    max-height: 100%;
+  .tifo-video iframe {
+    max-width: 70%;
+    max-height: 70%;
     border-radius: 25px;
   }
   
