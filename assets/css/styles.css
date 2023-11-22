@@ -20,12 +20,6 @@ body {
 
 .headcontainer {
     background: url("../images/sofialaktarenbanner-pinterestfixed.jpeg") no-repeat center center/cover;
-    opacity: 5;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 1% 0% 1% 3%;
-    background-color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -47,8 +41,9 @@ body {
 
 .sitetitle {
     font-size: 2.5rem;
-    margin: .5rem;
+    margin: auto;
     font-family: Arial, Helvetica, sans-serif;
+
 
 }
 
@@ -108,15 +103,16 @@ main {
 
 /*the maincontainer*/
 .indexcontainer {
-    
-    display: flex;      
+
+    display: flex;
     justify-content: center;
     flex-direction: column;
-    padding : 1rem 1rem 1rem 1rem;
+    padding: 1rem 1rem 1rem 1rem;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 
 }
+
 .index-headline {
     padding: 1rem 1rem 1rem 1rem;
 }
@@ -130,9 +126,9 @@ main {
 
 /*main images*/
 .main-images {
-display: flex;
-justify-content: center;
-flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 
 }
 
@@ -145,70 +141,88 @@ flex-wrap: wrap;
 
 /*the maintext container*/
 .indextext {
-    
-   display: flex;
+
+    display: flex;
     flex-direction: column;
     color: black;
-   font-family: Arial, Helvetica, sans-serif;
-   margin-top: 1em;
-   padding: 1em 1em 1em 1em;
-   
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1em;
+    padding: 1em 1em 1em 1em;
+
 
 }
 
-    /*the text boxes on the main site*/
-    
-     
-    .whatistifo{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-between;
-        color: black;
-        font-family: Arial, Helvetica, sans-serif;
-        margin: 1em 1em 1em 1em;
-        
-        
-    }
-    .whatistifo p {
-        text-align: left;
-        
-     }
+/*the text boxes on the main site*/
 
-     .whatisdif {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-between;
-        color: black;
-        font-family: Arial, Helvetica, sans-serif;  
-        margin: 1em 1em 1em 1em;
-    
-    }
+.whatistifo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1em 1em 1em 1em;
 
-        .whatisdif p {
-            text-align: left;
-            
-         }
-    
 
-        .whatissofia  {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: space-between;
-           color: black;
-            font-family: Arial, Helvetica, sans-serif;
-            margin: 1em 1em 1em 1em;
-            
-            
-        }
-        .whatissofia p {
-            text-align: left;
-            
-         }
-        
-        
+}
+
+.whatistifo p {
+    text-align: left;
+
+}
+
+.whatisdif {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1em 1em 1em 1em;
+
+}
+
+.whatisdif p {
+    text-align: left;
+
+}
+
+
+.whatissofia {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1em 1em 1em 1em;
+
+
+}
+
+.whatissofia p {
+    text-align: left;
+
+}
+
+
+/*tifo 1 header*/
+.tifo1header {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin: 5% 5% 5% 5%;
+    padding: 1rem 1rem 1rem 1rem;
+    text-align: center;
+    
+}
+
+
+
 /*tifo 123*/
 
 .tifo1container {
@@ -216,9 +230,9 @@ flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    width:100%;
-    
-    
+    width: 100%;
+
+
 
 
 }
@@ -228,9 +242,20 @@ flex-wrap: wrap;
     width: 280px;
     height: 100%;
     border-radius: 25px;
-    padding: 2px 2px 2px 
-
+    padding: 2px 2px 2px
 }
+.tifo1-video {
+    display: flex;
+   justify-content: center;
+    aspect-ratio: 16 / 9;
+    width: 45%;
+    
+
+    
+  }
+  
+    
+
 
 /*the footer*/
 #footer-items {
@@ -305,6 +330,7 @@ flex-wrap: wrap;
 
 
 }
+
 /*set indextext in row on laptop*/
 @media (min-width: 1024px) {
 
@@ -312,19 +338,19 @@ flex-wrap: wrap;
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
-        
-        
+
+
     }
-    
+
 }
 
 @media (min-width: 768px) {
 
     .tifo1container img {
         width: 480px;
-        
-        
-        
+
+
+
     }
-    
+
 }
