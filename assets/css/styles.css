@@ -106,6 +106,12 @@ main {
     flex: 1;
 }
 
+/*links style*/ .links {
+    text-decoration: none;
+    color: #064789;
+}
+
+
 
 
 
@@ -274,8 +280,8 @@ main {
     
   }
   .tifo-video iframe {
-    max-width: 70%;
-    max-height: 70%;
+    max-width: 80%;
+    max-height: 80%;
     border-radius: 25px;
   }
   
@@ -374,8 +380,9 @@ main {
 /*make images larger on bigger screens*/
 @media (min-width: 768px) {
 
-    .tifo1container img {
-        width: 480px;
+    .tifocontainer img {
+        width: 599px;
+        height: 399px;
 
 
 
