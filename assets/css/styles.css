@@ -416,13 +416,11 @@ main {
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
-
-
-    }
-
-
-
-
+ }
+     .vote-container  {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
 }
 
 /*make images larger on bigger screens*/
@@ -431,10 +429,9 @@ main {
     .tifocontainer img {
         width: 599px;
         height: 399px;
+ }
 
-
-
-    }
+    
 
 }
 
