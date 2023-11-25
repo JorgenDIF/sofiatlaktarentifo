@@ -303,6 +303,11 @@ main {
 
 /*the vote page*/
 
+.voteheader {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
 .vote-container {
     display: flex;
     justify-content: center;
@@ -421,6 +426,8 @@ main {
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
+        padding: 2rem 2rem 2rem 2rem;
+}
 }
 
 /*make images larger on bigger screens*/
