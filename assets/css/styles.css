@@ -240,6 +240,14 @@ main {
 
 }
 
+.head-tifo {
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+.tifo-title {
+    padding: 1rem 1rem 1rem 1rem;
+}
+
 
 
 /*tifo 123*/
@@ -316,6 +324,11 @@ main {
     padding: 2px 2px 2px
 }
 
+.name-box {
+
+    border-radius: 25px;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+}
 
 
 
