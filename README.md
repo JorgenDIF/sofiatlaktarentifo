@@ -23,6 +23,14 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
    * My objective was to introduce Swedish tifos to a global audience.
    * Primarily targeting football enthusiasts, but also reaching out to those unfamiliar with the concept of tifo.
 
+* The Scope
+
+   * I decided to select my three favorite tifos from Sofialäktaren Tifo and create one page for each.
+   * Utilizing the knowledge acquired during the course, I ensured to employ the mobile-first approach.
+
+* The Structure
+   * I chose to include a voting page as the final section to add an element of fun. If time permits, I would like to implement live results as well.
+
 * The Skeleton:
 
   * I utilized Balsamiq to create the skeleton or wireframe of the website.
@@ -31,6 +39,16 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
   ![balsamiq1](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/8f29c2b6-ce6b-4f3c-8ac4-261fb9cde841)
   ![balsamiq2](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/53e05550-26ed-45eb-8534-779a0859ce68)
 
+* The Surface
+
+  * With my wife's assistance, I opted for a background with opacity to enhance the overall aesthetic. The primary color of the background became the foundation for the site's color 
+    scheme, which includes #3369b, #6090d1, and white.
+  * I made sure to create the navbar and footer first as these elements should remain on every page. I found a helpful YouTube video on creating a responsive navbar, which I used as 
+    a guideline. Credit for this can be found further down this readme.
+  * I decided to include information on what Tifo is, who Sofialäktaren Tifo is, and who Djurgårdens IF is, to provide clarity for any user visiting the index.html page.
+  * I also wanted to include a few images of tifos and the team Djurgården to illustrate what it's all about.
+  * I came up with the idea to use flexbox to optimize the index page for larger screens, ensuring it fills up the screen appropriately.urn the indexpage around to fill up the screen 
+   on larger screens
 
 # Features
 
