@@ -57,11 +57,14 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 ### The Skeleton:
 
-  * I utilized Balsamiq to create the skeleton or wireframe of the website.
+  * I utilized Balsamiq to create the skeleton or wireframes of the website.
+  * My wireframes can be found here 
+     * [Wireframes Laptop](/documents/wireframes/Laptop/) 
+     * [Wireframes Ipad](/documents/wireframes/Ipad/)
+     * [Wireframes Mobile](/documents/wireframes/Mobile/)
 
     
-  ![balsamiq1](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/8f29c2b6-ce6b-4f3c-8ac4-261fb9cde841)
-  ![balsamiq2](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/53e05550-26ed-45eb-8534-779a0859ce68)
+  
 
   <a id=#the-surface></a>
 
