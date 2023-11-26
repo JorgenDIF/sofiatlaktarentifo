@@ -26,7 +26,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 <a id=#the-strategy></a>
 
-## The Strategy:
+### The Strategy:
 
    * My objective was to introduce Swedish tifos to a global audience.
    * Primarily targeting football enthusiasts, but also reaching out to those unfamiliar with the concept of tifo.
