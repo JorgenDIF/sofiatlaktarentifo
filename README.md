@@ -6,4 +6,23 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 # Features
 
-* The header and navigation bar
+* Header and Navigation Bar:
+  * Present on all five pages, the header and navigation bar provide consistent elements.
+  * The navigation bar boasts a responsive and functional design, complemented by an appealing header image.
+  * The image credit is further down this file
+  
+
+
+![theheader-navigation](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/3dc083bd-19c4-4f24-b4db-dccbd72cb7e0)
+
+* The Main Page:
+  
+  * Serving as the heart of the website, the main page (index.html) captures the essence of my platform.
+  * This section not only communicates what the website is about but also features captivating images, enhancing its visual appeal.
+  * Carefully curated information aims to create a welcoming atmosphere, ensuring that every visitor feels invited to explore further.
+  * Further down the page, proper credit has been given to the talented creators of the showcased images, acknowledging their contribution to the website's visual richness.
+  * The background image is consistent on all 5 pages
+
+    
+
+![The main page](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/0dae3fbf-59d4-4fa6-b41e-88e83c67afa8)
