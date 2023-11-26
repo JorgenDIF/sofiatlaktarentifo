@@ -26,26 +26,26 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 <a id=#the-strategy></a>
 
-#### The Strategy:
+### The Strategy:
 
    * My objective was to introduce Swedish tifos to a global audience.
    * Primarily targeting football enthusiasts, but also reaching out to those unfamiliar with the concept of tifo.
 
 <a id=#the-scope></a>
 
-* The Scope
+### The Scope
 
    * I decided to select my three favorite tifos from Sofialäktaren Tifo and create one page for each.
    * Utilizing the knowledge acquired during the course, I ensured to employ the mobile-first approach.
 
 <a id=#the-structure></a>
 
-* The Structure
+### The Structure
    * I chose to include a voting page as the final section to add an element of fun. If time permits, I would like to implement live results as well.
 
 <a id=#the-skeleton></a>
 
-* The Skeleton:
+### The Skeleton:
 
   * I utilized Balsamiq to create the skeleton or wireframe of the website.
 
@@ -55,7 +55,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
   <a id=#the-surface></a>
 
-* The Surface
+### The Surface
 
   * With my wife's assistance, I opted for a background with opacity to enhance the overall aesthetic. The primary color of the background became the foundation for the site's color 
     scheme, which includes #3369b, #6090d1, and white.
@@ -68,7 +68,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 # Features
 
-* Header and Navigation Bar:
+### Header and Navigation Bar:
   * Present on all five pages, the header and navigation bar provide consistent elements.
   * The navigation bar boasts a responsive and functional design, complemented by an appealing header image.
   * The image credit is further down this file
@@ -77,7 +77,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 ![theheader-navigation](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/3dc083bd-19c4-4f24-b4db-dccbd72cb7e0)
 
-* The Main Page:
+### The Main Page:
   
   * Serving as the heart of the website, the main page (index.html) captures the essence of my platform.
   * This section not only communicates what the website is about but also features images, enhancing its visual appeal.
@@ -89,7 +89,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 ![The main page](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/0dae3fbf-59d4-4fa6-b41e-88e83c67afa8)
 
-* The Footer
+### The Footer
 
   * Across all five pages, a consistent footer design has been implemented to provide a better experience.
   * This section incorporates direct links to Sofialäktaren's social networks, fostering easy connectivity with the community.
@@ -98,7 +98,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
   
 ![The-footer (1)](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/20dee7d3-ed2e-4f0b-b63f-05cddb1bab15)
 
-* Tifo 1-3 Pages:
+### Tifo 1-3 Pages:
 
   * Pages named Tifo 1-3 show cool pictures and details about the tifos I really like.
   * Each page has a video from YouTube to give you a better look at the tifos. For one of them, there's a link since I couldn't put the video directly.
@@ -111,11 +111,11 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 ![tifo2n](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/eb60c23a-e522-4b58-ad02-23992471f683)
 ![tifo3](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/30dc5f0d-d0b0-45b5-9523-159f6219c16f)
 
-* Vote Page:
+### Vote Page:
   * The Vote page encourages users to participate by voting for their favorite tifo.
   * Users can choose from three options and are required to provide their name and email for the voting process.
 
-* Features Left to Implement:
+### Features Left to Implement:
   * A live poll that displays the voting results directly on the Voting page.
 
 
