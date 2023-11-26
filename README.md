@@ -6,4 +6,4 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 # Features
 
-The header and navigation bar
+* The header and navigation bar
