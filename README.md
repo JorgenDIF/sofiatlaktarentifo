@@ -15,13 +15,13 @@
    * [The Footer](#the-footer)
    * [The Tifo 1-3 Pages](#tifo-1-3)
    * [The Vote Page](#the-vote-page)
-   * [Feauters Left To Implement](#feauters-left)
+   * [Feauters Left To Implement](#feauters-left-to-implement)
 *   [Testing](#testing)
    
    
      
 
-<a id=#introduction></a>
+<a id=introduction></a>
 
 # Introduction
 
@@ -30,30 +30,30 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 ![amiresponsive-sofialaktaren](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/28d5df89-8fdb-4a3d-9186-638397d52c14)
 
-<a id=#ux></a>
+<a id=ux></a>
 
 # UX
 
-<a id=#the-strategy></a>
+<a id=the-strategy></a>
 
 ### The Strategy:
 
    * My objective was to introduce Swedish tifos to a global audience.
    * Primarily targeting football enthusiasts, but also reaching out to those unfamiliar with the concept of tifo.
 
-<a id=#the-scope></a>
+<a id=the-scope></a>
 
 ### The Scope
 
    * I decided to select my three favorite tifos from Sofialäktaren Tifo and create one page for each.
    * Utilizing the knowledge acquired during the course, I ensured to employ the mobile-first approach.
 
-<a id=#the-structure></a>
+<a id=the-structure></a>
 
 ### The Structure
    * I chose to include a voting page as the final section to add an element of fun. If time permits, I would like to implement live results as well.
 
-<a id=#the-skeleton></a>
+<a id=the-skeleton></a>
 
 ### The Skeleton:
 
@@ -78,7 +78,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 # Features
 
-<a id=#header-navigation></a>
+<a id=header-navigation></a>
 
 ### Header and Navigation Bar:
   * Present on all five pages, the header and navigation bar provide consistent elements.
@@ -89,7 +89,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 ![theheader-navigation](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/3dc083bd-19c4-4f24-b4db-dccbd72cb7e0)
 
-<a id=#the-main-page></a>
+<a id=the-main-page></a>
 
 ### The Main Page:
   
@@ -103,7 +103,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 ![The main page](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/0dae3fbf-59d4-4fa6-b41e-88e83c67afa8)
 
-<a id=#the-footer></a>
+<a id=the-footer></a>
 
 ### The Footer
 
@@ -114,7 +114,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
   
 ![The-footer (1)](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/20dee7d3-ed2e-4f0b-b63f-05cddb1bab15)
 
-<a id=#tifo-1-3></a>
+<a id=tifo-1-3></a>
 
 ### Tifo 1-3 Pages:
 
@@ -129,18 +129,18 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 ![tifo2n](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/eb60c23a-e522-4b58-ad02-23992471f683)
 ![tifo3](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/30dc5f0d-d0b0-45b5-9523-159f6219c16f)
 
-<a id=#the-vote-page></a>
+<a id=the-vote-page></a>
 
 ### The Vote Page:
   * The Vote page encourages users to participate by voting for their favorite tifo.
   * Users can choose from three options and are required to provide their name and email for the voting process.
 
- <a id=#feauters-left></a>
+ <a id=feauters-left-to-implement></a>
 
 ### Features Left to Implement:
   * A live poll that displays the voting results directly on the Voting page.
 
-<a id=#testing>
+<a id=testing>
 
  # Testing 
 
