@@ -16,6 +16,7 @@
    * [The Tifo 1-3 Pages](#tifo-1-3)
    * [The Vote Page](#the-vote-page)
    * [Feauters Left To Implement](#feauters-left)
+*   [Testing](#testing)
    
    
      
@@ -139,5 +140,8 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 ### Features Left to Implement:
   * A live poll that displays the voting results directly on the Voting page.
 
+<a id=#testing>
 
  # Testing 
+
+
