@@ -4,6 +4,12 @@
 **Table of content:**
 * [Introduction](#introduction)
 * [UX](#ux)
+   * [The Strategy](#the-strategy)
+   * [The Scope](#the-scope)
+   * [The Structure](#the-structure)
+   * [The Skeleton](#the-skeleton)
+   * [The-Surface](#the-surface)
+     
 
 <a id=#introduction></a>
 
@@ -18,18 +24,26 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 # UX
 
+<a id=#the-strategy></a>
+
 * The Strategy:
 
    * My objective was to introduce Swedish tifos to a global audience.
    * Primarily targeting football enthusiasts, but also reaching out to those unfamiliar with the concept of tifo.
+
+<a id=#the-scope></a>
 
 * The Scope
 
    * I decided to select my three favorite tifos from Sofialäktaren Tifo and create one page for each.
    * Utilizing the knowledge acquired during the course, I ensured to employ the mobile-first approach.
 
+<a id=#the-structure></a>
+
 * The Structure
    * I chose to include a voting page as the final section to add an element of fun. If time permits, I would like to implement live results as well.
+
+<a id=#the-skeleton></a>
 
 * The Skeleton:
 
@@ -38,6 +52,8 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
     
   ![balsamiq1](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/8f29c2b6-ce6b-4f3c-8ac4-261fb9cde841)
   ![balsamiq2](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/53e05550-26ed-45eb-8534-779a0859ce68)
+
+  <a id=#the-surface></a>
 
 * The Surface
 
