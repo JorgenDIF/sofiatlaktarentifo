@@ -29,14 +29,15 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 * The Footer
 
- * Across all five pages, a consistent footer design has been implemented to provide a better experience.
- * This section incorporates direct links to Sofialäktaren's social networks, fostering easy connectivity with the community.
- * Additionally, a link to Djurgårdens IF's official website is included, allowing visitors quick access to the team's broader online presence.
+  * Across all five pages, a consistent footer design has been implemented to provide a better experience.
+  * This section incorporates direct links to Sofialäktaren's social networks, fostering easy connectivity with the community.
+  * Additionally, a link to Djurgårdens IF's official website is included, allowing visitors quick access to the team's broader online presence.
 
   
 ![The-footer (1)](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/20dee7d3-ed2e-4f0b-b63f-05cddb1bab15)
 
 * Tifo 1-3 Pages:
+
   * Pages named Tifo 1-3 show cool pictures and details about the tifos I really like.
   * Each page has a video from YouTube to give you a better look at the tifos. For one of them, there's a link since I couldn't put the video directly.
   * It's a fun way to explore and learn more about these tifos.
@@ -46,5 +47,14 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
   
 ![tifo1](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/91cb9a08-fcde-40f9-a363-33b1e1583378)
 ![tifo2n](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/eb60c23a-e522-4b58-ad02-23992471f683)
-
 ![tifo3](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/30dc5f0d-d0b0-45b5-9523-159f6219c16f)
+
+* Vote Page:
+  * The Vote page encourages users to participate by voting for their favorite tifo.
+  * Users can choose from three options and are required to provide their name and email for the voting process.
+
+* Features Left to Implement:
+  * A live poll that displays the voting results directly on the Voting page.
+
+
+
