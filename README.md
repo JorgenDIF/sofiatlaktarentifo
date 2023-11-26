@@ -18,6 +18,19 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 # UX
 
+* The Strategy:
+
+   * My objective was to introduce Swedish tifos to a global audience.
+   * Primarily targeting football enthusiasts, but also reaching out to those unfamiliar with the concept of tifo.
+
+* The Skeleton:
+
+  * I utilized Balsamiq to create the skeleton or wireframe of the website.
+
+    
+  ![balsamiq1](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/8f29c2b6-ce6b-4f3c-8ac4-261fb9cde841)
+  ![balsamiq2](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/53e05550-26ed-45eb-8534-779a0859ce68)
+
 
 # Features
 
