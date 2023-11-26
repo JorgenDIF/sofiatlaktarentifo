@@ -8,7 +8,16 @@
    * [The Scope](#the-scope)
    * [The Structure](#the-structure)
    * [The Skeleton](#the-skeleton)
-   * [The-Surface](#the-surface)
+   * [The Surface](#the-surface)
+*  [Feauters](#feauters)
+   * [Header and Navigation Bar](#header-navigation)
+   * [The Main Page](#the-main-page)
+   * [The Footer](#the-footer)
+   * [The Tifo 1-3 Pages](#tifo-1-3)
+   * [The Vote Page](#the-vote-page)
+   * [Feauters Left To Implement](#feauters-left)
+   
+   
      
 
 <a id=#introduction></a>
@@ -68,6 +77,8 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 # Features
 
+<a id=#header-navigation></a>
+
 ### Header and Navigation Bar:
   * Present on all five pages, the header and navigation bar provide consistent elements.
   * The navigation bar boasts a responsive and functional design, complemented by an appealing header image.
@@ -76,6 +87,8 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 
 ![theheader-navigation](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/3dc083bd-19c4-4f24-b4db-dccbd72cb7e0)
+
+<a id=#the-main-page></a>
 
 ### The Main Page:
   
@@ -89,6 +102,8 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 ![The main page](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/0dae3fbf-59d4-4fa6-b41e-88e83c67afa8)
 
+<a id=#the-footer></a>
+
 ### The Footer
 
   * Across all five pages, a consistent footer design has been implemented to provide a better experience.
@@ -97,6 +112,8 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
   
 ![The-footer (1)](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/20dee7d3-ed2e-4f0b-b63f-05cddb1bab15)
+
+<a id=#tifo-1-3></a>
 
 ### Tifo 1-3 Pages:
 
@@ -111,9 +128,13 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 ![tifo2n](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/eb60c23a-e522-4b58-ad02-23992471f683)
 ![tifo3](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/30dc5f0d-d0b0-45b5-9523-159f6219c16f)
 
-### Vote Page:
+<a id=#the-vote-page></a>
+
+### The Vote Page:
   * The Vote page encourages users to participate by voting for their favorite tifo.
   * Users can choose from three options and are required to provide their name and email for the voting process.
+
+ <a id=#feauters-left></a>
 
 ### Features Left to Implement:
   * A live poll that displays the voting results directly on the Voting page.
