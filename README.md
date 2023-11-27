@@ -34,7 +34,7 @@
 *   [Credit](#credit)
      * [Content](#credit-content)
      * [Images](#images)
-  
+     * [Thank You](thank-you)
      
 
 <a id=introduction></a>
