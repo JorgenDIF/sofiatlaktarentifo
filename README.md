@@ -16,6 +16,9 @@
    * [The Tifo 1-3 Pages](#tifo-1-3)
    * [The Vote Page](#the-vote-page)
    * [Feauters Left To Implement](#feauters-left-to-implement)
+*   [Technologies](#technologies)
+    * [Language](#language) 
+    * [Tools](#tools) 
 *   [Testing](#testing)
    
    
@@ -36,7 +39,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 <a id=the-strategy></a>
 
-### The Strategy:
+### The Strategy
 
    * My objective was to introduce Swedish tifos to a global audience.
    * Primarily targeting football enthusiasts, but also reaching out to those unfamiliar with the concept of tifo.
@@ -55,7 +58,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 <a id=the-skeleton></a>
 
-### The Skeleton:
+### The Skeleton
 
   * I utilized Balsamiq to create the skeleton or wireframes of the website.
   * My wireframes can be found here 
@@ -74,16 +77,17 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
     scheme, which includes #3369b, #6090d1, and white.
   * I made sure to create the navbar and footer first as these elements should remain on every page. I found a helpful YouTube video on creating a responsive navbar, which I used as 
     a guideline. Credit for this can be found further down this readme.
+  * I made a choice to use the font family :Arial, Helvetica, sans-serif to keep it clean and simple 
   * I decided to include information on what Tifo is, who Sofialäktaren Tifo is, and who Djurgårdens IF is, to provide clarity for any user visiting the index.html page.
   * I also wanted to include a few images of tifos and the team Djurgården to illustrate what it's all about.
-  * I came up with the idea to use flexbox to optimize the index page for larger screens, ensuring it fills up the screen appropriately.urn the indexpage around to fill up the screen 
+  * I came up with the idea to use flexbox to optimize the index page for larger screens, ensuring it fills up the screen appropriately turn the indexpage around to fill up the screen 
    on larger screens
 
 # Features
 
 <a id=header-navigation></a>
 
-### Header and Navigation Bar:
+### Header and Navigation Bar
   * Present on all five pages, the header and navigation bar provide consistent elements.
   * The navigation bar boasts a responsive and functional design, complemented by an appealing header image.
   * The image credit is further down this file
@@ -94,7 +98,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 <a id=the-main-page></a>
 
-### The Main Page:
+### The Main Page
   
   * Serving as the heart of the website, the main page (index.html) captures the essence of my platform.
   * This section not only communicates what the website is about but also features images, enhancing its visual appeal.
@@ -119,7 +123,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 <a id=tifo-1-3></a>
 
-### Tifo 1-3 Pages:
+### Tifo 1-3 Pages
 
   * Pages named Tifo 1-3 show cool pictures and details about the tifos I really like.
   * Each page has a video from YouTube to give you a better look at the tifos. For one of them, there's a link since I couldn't put the video directly.
@@ -134,17 +138,40 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 <a id=the-vote-page></a>
 
-### The Vote Page:
+### The Vote Page
   * The Vote page encourages users to participate by voting for their favorite tifo.
   * Users can choose from three options and are required to provide their name and email for the voting process.
 
  <a id=feauters-left-to-implement></a>
 
-### Features Left to Implement:
+### Features Left to Implement
   * A live poll that displays the voting results directly on the Voting page.
+
+<a id=technologies></a>
+
+# Technologies
+
+<a id=language></a>
+
+### Language
+   * HTML
+   * CSS
+   * JavaScript
+
+  <a id=tools></a> 
+
+ ### Tools
+   * VScode  
+   * Balsamiq
+   * Codeanywhere
+   * Github
+   * HTML Validator
+   * CSS Validator
 
 <a id=testing>
 
  # Testing 
+
+
 
 
