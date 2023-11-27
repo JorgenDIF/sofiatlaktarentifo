@@ -365,6 +365,10 @@ margin: 1% 1% 0 1%;
     margin-top: 1px;
 }
 
+.logodif img:hover {
+    opacity: 0.5;
+}
+
 #footer-items i:hover {
     color: #3369b1;
 }
