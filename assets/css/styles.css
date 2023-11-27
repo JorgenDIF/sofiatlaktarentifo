@@ -365,6 +365,9 @@ margin: 1% 1% 0 1%;
     margin-top: 1px;
 }
 
+#footer-items i:hover {
+    color: #3369b1;
+}
 
 /* Media query: less than 520px*/
 @media (max-width: 520px) {

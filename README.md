@@ -259,7 +259,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 <a id=local-deployment></a>
 
-### Local Depolyment
+### Local Deployment
 
  * Made a local deployment on my computer
 
