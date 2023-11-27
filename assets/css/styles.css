@@ -403,3 +403,10 @@ main {
         height: 399px;
     }
 }
+
+/* For screens smaller than 600 pixels */
+@media screen and (max-width: 600px) {
+    .tifoheader p{
+        text-align: left; /* Left alignment for smaller screens */
+    }
+}

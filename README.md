@@ -156,6 +156,8 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
   * The Vote page encourages users to participate by voting for their favorite tifo.
   * Users can choose from three options and are required to provide their name and email for the voting process.
 
+  ![img](assets/images/vote.png)
+
  <a id=feauters-left-to-implement></a>
 
 ### Features Left to Implement
