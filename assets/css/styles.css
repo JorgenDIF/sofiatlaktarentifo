@@ -294,6 +294,13 @@ main {
     padding: 0.5rem 1rem 0.5rem 1rem;
 }
 
+.result {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 1rem;
+
+}
+
 /*the footer*/
 #footer-items {
     display: flex;
@@ -406,7 +413,7 @@ main {
 
 /* For screens smaller than 600 pixels */
 @media screen and (max-width: 600px) {
-    .tifoheader p{
+    .tifoheader p, .about-thesite p {
         text-align: left; /* Left alignment for smaller screens */
     }
 }

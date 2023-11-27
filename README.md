@@ -335,6 +335,9 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
  
 * The footers items is from [Fontawseome](https://fontawesome.com/) and [Wikipedia](https://sv.wikipedia.org/wiki/Portal:Huvudsida)
 
+* The reade me is inspired by other users readmes : [mindyoga](https://github.com/AliOKeeffe/mindyoga/blob/main/README.md),
+   [vinviant](https://github.com/klchambers/VinVivant/blob/main/README.md) and from [Love Running Project](https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md)
+
  <a id=media></a>
 
  ### Media

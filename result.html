@@ -7,10 +7,9 @@
     <!--Meta tags for description-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Tifo by supporters. Footballfans from Stockholm supporting Djurgardens IF. Sofialaktaren stockhom">
+        content="Tifo by supporters. Footballfans from Stockholm supporting Djurgardens IF. Sofialaktaren Stockholm">
     <meta name="keywords"
         content="Stockholm, Supporters, football, fans, Djurgardens IF, Sofialaktaren, Tele2 Arena, Stockholm Stadion">
-       
     <!--Favicon input-->
     <link rel="shortcut icon" type="image/png" href="assets/favicon/icons8-megaphone-48.png">
     <!--Stylesheet-->
@@ -26,67 +25,39 @@
     <header>
         <div class="headcontainer">
             <img src="assets/images/sofiabannerucs.webp" alt="">
-
-
-
-
             <a href="#" class="toggle-button">
                 <span class="bar"></span>
                 <span class="bar"></span>
                 <span class="bar"></span>
             </a>
-
-
         </div>
     </header>
-    <!--The navbar-->
+
     <nav class="navbar">
-        <div class="sitetitle">Sofia Tifo</div>
+        <div class="sitetitle">Sofia Tifo </div>
 
         <div class="links_navbar">
+
             <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html" class="active">Home</a></li>
                 <li><a href="tifo1.html">Tifo 1</a></li>
                 <li><a href="tifo2.html">Tifo 2</a></li>
                 <li><a href="tifo3.html">Tifo 3</a></li>
-                <li><a href="" class="active">Vote</a></li>
+                <li><a href="vote.html">Vote</a></li>
             </ul>
         </div>
     </nav>
     <!--The main site-->
-
     <main>
-        <div class="voteheader">
-            <h2>Have your say:</h2>
-            <p> Put your vote in</p>
-        </div>
-        <form action="result.html" method="post">
-            <div class="vote-container">
+        <div class="result">
+       <h2> Thank you for your vote!!</h2>
+       <h4>Hope to see you soon</h4>
+    </main> 
 
-                <div class="votebox"><input type="radio" id="tifo1" class="vote" name="tifo" value="tifo1">
-                    <label for="tifo1">Tifo 1</label><img src="assets/images/gorilla-vote.webp"
-                        alt="A small image of the Gorilla Tifo">
-                </div>
-                <div class="votebox"> <input type="radio" id="tifo2" class="vote" name="tifo" value="tifo2" required>
-                    <label for="tifo2">Tifo 2</label><img src="assets/images/stadion-vote.webp"
-                        alt="A small image of the Stadion Tifo">
-                </div>
-                <div class="votebox"><input type="radio" id="tifo3" class="vote" name="tifo" value="tifo3">
-                    <label for="tifo3">Tifo 3</label> <img src="assets/images/headliner-vote.webp"
-                        alt="A small image of the Headliner Tifo">
-                </div>
-                <div class="infobox"> <input type="text" id="name" class="name-box" placeholder="Your name" required> <br>
-                    <input type="email" id="email" class="name-box" placeholder="Your email" required> <br>
-                    <button type="submit" class="name-box">Submit</button>
-                </div>
-            </div>
+</div>
 
-        </form>
-
-    </main>
+    <!--Social media links and other links in  the footer-->
     <footer>
-
-        <!--Social media links and other links in  the footer-->
         <ul id="footer-items">
             <li><a href="https://www.facebook.com/people/Sofial%C3%A4ktaren/100064739824748/" target="_blank"
                     rel="noopener" aria-label="visit our facebook page(opens in a new tab)"><i
@@ -105,12 +76,13 @@
             </li>
             <li>
                 <a href="https://www.dif.se/" class="logodif" target="_blank"><img
-                        src="assets/images/diffacebooknewestthat-_1_.webp" alt="">
+                        src="assets/images/diffacebooknewestthat-_1_.webp" alt>
                 </a>
             </li>
         </ul>
 
     </footer>
+
 </body>
 
 </html>
