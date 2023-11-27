@@ -1,6 +1,14 @@
 
 
 # Sofialäktaren Tifo
+<a id=introduction></a>
+
+# Introduction
+
+What is Tifo you might ask? Tifo, originating from the Italian word "tifosi," refers to the visual displays created by passionate sports fans during matches, particularly in football. This phenomenon involves choreographed flags, signs, or banners in stadium stands, commonly observed in crucial games, local derbies, and rivalries.
+This website contains my top 3 tifos created by Sofialäktaren Tifo.
+Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan is currently ranked at number 24 in Europe. However, our supporters and ultras are of top-class quality. The tifos created by our Ultras are world-class. If you're not familiar with tifos, don't worry; you'll soon be aware! The goal of this website is to showcase these incredible displays to the world, with a focus on my team, Djurgårdens IF. Our Tifo Group, Sofialäktaren Tifo, is among the best in Sweden. Enjoy the ride 
+
 
 [Link to the website](https://jorgendif.github.io/sofiatlaktarentifo/index.html)
 # Content
@@ -12,6 +20,10 @@
    * [The Structure](#the-structure)
    * [The Skeleton](#the-skeleton)
    * [The Surface](#the-surface)
+*   [User Experience](#user-experience) 
+   * [First Time User](#first-time-user)
+   * [Returning User](#returning-user)
+   * [Frequent User](frequent-user)
 *  [Feauters](#feauters)
    * [Header and Navigation Bar](#header-navigation)
    * [The Main Page](#the-main-page)
@@ -26,6 +38,7 @@
 *   [Testing](#testing)
     * [Manual Testing](#manual-testing)
     * [Lighthouse](#lighthouse)
+    * [Browser Test](#browser-test)
     * [Validation](#validation)
     * [Bugs](#bugs)
 *   [Deployment](#deployment) 
@@ -36,14 +49,6 @@
      * [Images](#images)
      * [Thank You](#thank-you)
      
-
-<a id=introduction></a>
-
-# Introduction
-
-What is Tifo you might ask? Tifo, originating from the Italian word "tifosi," refers to the visual displays created by passionate sports fans during matches, particularly in football. This phenomenon involves choreographed flags, signs, or banners in stadium stands, commonly observed in crucial games, local derbies, and rivalries.
-This website contains my top 3 tifos created by Sofialäktaren Tifo.
-Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan is currently ranked at number 24 in Europe. However, our supporters and ultras are of top-class quality. The tifos created by our Ultras are world-class. If you're not familiar with tifos, don't worry; you'll soon be aware! The goal of this website is to showcase these incredible displays to the world, with a focus on my team, Djurgårdens IF. Our Tifo Group, Sofialäktaren Tifo, is among the best in Sweden. Enjoy the ride 
 
 ![amiresponsive-sofialaktaren](https://github.com/JorgenDIF/sofiatlaktarentifo/assets/2896159/28d5df89-8fdb-4a3d-9186-638397d52c14)
 
@@ -96,6 +101,38 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
   * I also wanted to include a few images of tifos and the team Djurgården to illustrate what it's all about.
   * I came up with the idea to use flexbox to optimize the index page for larger screens, ensuring it fills up the screen appropriately turn the indexpage around to fill up the screen 
    on larger screens
+
+   <a id=user-experience></a>
+
+   # User Experience
+    
+    <a id=first-time-user></a>
+
+    ### First Time User
+
+    * As a first time user I would like to easily find what I´m looking for
+    * As a first time user I would like to get entertained
+    * As a first time user I would like to feel at home on the website
+
+    <a id=returning-user>
+
+    ### Returning User
+
+    * As a returning user I would love to see the images again
+    * As a returning user I would loose myself in the videos
+    * As a returning user I´m hoping for new content
+
+      <a id=frequent-user>
+
+    ### Frequent User
+
+    * As a frequent user, I want the site to evolve while maintaining a familiar feel
+    * As a frequent user, I'd like more voting options and the possibility of participating in competitions
+    * As a frequent user, I wish to have the option to purchase merchandise.
+
+
+
+   
 
 # Features
 
@@ -162,6 +199,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 ### Features Left to Implement
   * A live poll that displays the voting results directly on the Voting page.
+  * Maybe in the future make my favourite tifos of every season
 
 <a id=technologies></a>
 
@@ -222,13 +260,27 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 ![img](assets/images/Lighthousetrest.png)
 
+<a id=browser-test></a>
+
+### Browser Test
+
+* I tested my Website with : Safari, Google Chrome and Microsoft Edge. No errors occured on any device
+
  <a id=validation>
 
 ### Validation
 
 * I did a HTML validation with [W3C HTML-Validator](https://validator.w3.org/#validate_by_input) that showed no errors on any of my 5 pages
 
+![img](<assets/images/html checked.png>)
+
+
 * I did a CSS validation with [W3C CSS-Validator](https://jigsaw.w3.org/css-validator/) that showed no errors
+
+![img](<assets/images/css checked.png>)
+
+
+
 
 <a id=bugs></a>
 
@@ -236,8 +288,8 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 | Bug | Status | Description | Steps To Resolve |
 | --- | --- | --- | --- |
-| Hamburger menu not at the same spot | Ongoing | The button is moving while changing device | Go through CSS
-| Text centered | Ongoing | Text centered text is hard to read | Align text to the sides |
+| Hamburger menu not at the same spot | ~~Resolved~~  | The button is moving while changing device | Go through CSS
+| Text centered | ~~Resolved~~  | Text centered text is hard to read | Align text to the sides |
 | Images too big and site not responsive | ~~Resolved~~ | The images was to big and not in order  | Used flexbox and resized images |
 | The vote page had empty space on big screen | ~~Resolved~~ | The images on the page was in a column  | Used media device to get them in a row while on bigger screens |
 
