@@ -30,6 +30,11 @@
     * [Bugs](#bugs)
 *   [Deployment](#deployment) 
      * [Deployment To Github](#deployment-to-github)
+     * [Local Deployment](#local-deployment)
+*   [Credit](#credit)
+     * [Content](#credit-content)
+     * [Images](#images)
+  
      
 
 <a id=introduction></a>
@@ -219,7 +224,9 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 ### Validation
 
-* I did a HTML
+* I did a HTML validation with [W3C HTML-Validator](https://validator.w3.org/#validate_by_input) that showed no errors on any of my 5 pages
+
+* I did a CSS validation with [W3C CSS-Validator](https://jigsaw.w3.org/css-validator/) that showed no errors
 
 <a id=bugs></a>
 
@@ -228,9 +235,9 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 | Bug | Status | Description | Steps To Resolve |
 | --- | --- | --- | --- |
 | Hamburger menu not at the same spot | Ongoing | The button is moving while changing device | Go through CSS
-| Text centered | Ongoing | Text centered is hard to read | Align text to the sides |
-| Images too big and site not responsive | Resolved | The images was to big and not in order  | Used flexbox and resized images |
-| The vote page had empty space on big screen | Resolved | The images on the page was in a column  | Used media device to get them in a row while on bigger screens |
+| Text centered | Ongoing | Text centered text is hard to read | Align text to the sides |
+| Images too big and site not responsive | ~~Resolved~~ | The images was to big and not in order  | Used flexbox and resized images |
+| The vote page had empty space on big screen | ~~Resolved~~ | The images on the page was in a column  | Used media device to get them in a row while on bigger screens |
 
 <a id=deployment></a>
 
@@ -249,6 +256,53 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 * Select the none dropdown, and then click main.
 * Click on the save button.
 * If any changes are required, they can be done, commited and pushed to GitHub and the changes  will be updated.
+
+<a id=local-deployment></a>
+
+### Local Depolyment
+
+ * Made a local deployment on my computer
+
+ ![img](<assets/images/localdeployment (2).png>)
+
+ <a id=credit></a>
+
+# Credit
+ 
+ * The following section acknowledges and credits all borrowed content and images
+ 
+ <a id="credit-content"></a>
+
+ ### Content
+
+ * The hamburger menu is mainly inspired by this YouTube video [Responsive Navbar](https://www.youtube.com/watch?v=At4B7A4GOPg)
+
+ * The text about every Tifo is taken from [Sofialäktarens Instagram](https://www.instagram.com/sofialaktaren/)
+
+ * The translations from swedish to english was made with help of Google Translate and [Chat GPT](https://chat.openai.com/c/40b00b12-d494-429b-bcbe-beef367157f8)
+
+ * The about Tifo, about Sofialäktaren Tifo and about Djurgården is partly borrowed from [Wikipedia](https://sv.wikipedia.org/wiki/Portal:Huvudsida)
+
+ 
+* The footers items is from [Fontawseome](https://fontawesome.com/) and [Wikipedia](https://sv.wikipedia.org/wiki/Portal:Huvudsida)
+
+ <a id=media></a>
+
+ ### Media
+
+ * The background image is from [UCS Stockholm](https://www.ultracaosstockholm.se/hem/) but changed the opacity
+
+ * The images on the index.html are from [UCS Stockholm](https://www.ultracaosstockholm.se/hem/)
+ , [Wikipedia](https://sv.wikipedia.org/wiki/Portal:Huvudsida) and [DIF Arkivet](https://www.difarkivet.se/)
+
+ * The header image is from [UCS Stockholm](https://www.ultracaosstockholm.se/hem/)
+ 
+ * The Tifo 1-3 and Vote images are from [UCS Stockholm](https://www.ultracaosstockholm.se/hem/)
+ and [DIF X-Site](https://twitter.com/DIF_Fotboll?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+ 
+
+* The YouTube videos on the Tifo Pages are from [DIF Västerort](https://www.youtube.com/watch?v=M8yLrBLfejk) and [DIF Nytt](https://www.youtube.com/watch?v=vPkJQ801mG0)
+
 
 
 
