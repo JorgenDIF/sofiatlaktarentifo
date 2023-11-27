@@ -1,5 +1,8 @@
+
+
 # Sofialäktaren Tifo
 
+[Link to the website](https://jorgendif.github.io/sofiatlaktarentifo/index.html)
 # Content
 **Table of content:**
 * [Introduction](#introduction)
@@ -20,14 +23,16 @@
     * [Language](#language) 
     * [Tools](#tools) 
 *   [Testing](#testing)
-   
-   
+    * [Manual Testing](#manual-testing)
+    * [Lighthouse](#lighthouse)
+    * [Bugs](#bugs)
      
 
 <a id=introduction></a>
 
 # Introduction
 
+What is Tifo you might ask? Tifo, originating from the Italian word "tifosi," refers to the visual displays created by passionate sports fans during matches, particularly in football. This phenomenon involves choreographed flags, signs, or banners in stadium stands, commonly observed in crucial games, local derbies, and rivalries.
 This website contains my top 3 tifos created by Sofialäktaren Tifo.
 Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan is currently ranked at number 24 in Europe. However, our supporters and ultras are of top-class quality. The tifos created by our Ultras are world-class. If you're not familiar with tifos, don't worry; you'll soon be aware! The goal of this website is to showcase these incredible displays to the world, with a focus on my team, Djurgårdens IF. Our Tifo Group, Sofialäktaren Tifo, is among the best in Sweden. Enjoy the ride 
 
@@ -171,6 +176,45 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 <a id=testing>
 
  # Testing 
+
+<a id=manual-testing></a>
+
+ ### Manual Testing
+
+
+
+| Feature | Description | Steps | Outcome |
+| --- | --- | --- | --- |
+| Home Button in the menu | Takes you to index.html| Press Home Button | Navigates to index.html |
+| Tifo 1 button in the menu | Takes you to tifo1.html | Press Tifo 1 Button | Navigates to tifo1.html |
+| Tifo 2 button in the menu | Takes you to tifo2.html | Press Tifo 2 Button | Navigates to tifo2.html |
+| Tifo 3 button in the menu | Takes you to tifo3.html | Press Tifo 3 Button | Navigates to tifo3.html |
+| Vote Button in the menu | Takes you to vote.html | Press Vote Button | Navigates to vote.html|
+| Hamburger button in mobilemode | Opens menu | Press Hamburger| Opens menu |
+| Submit Button in the vote page | Takes you to thank you page| Press Submit Button | Not ready yet |
+| Links in the Footer | Takes you to social media| Press any of the buttons | Navigates to the right social media site |
+| Links to photo scourses | Takes you to scourses| Press link Button | Navigates to the scourse |
+| Youtube videos | Plays the videos | Press play | Videos starts |
+
+<a id=lighthouse></a>
+
+### Lighthouse
+
+* Performed a lighthouse test in Devtools with this outcome
+
+
+![img](assets/images/Lighthousetrest.png)
+
+<a id=bugs></a>
+
+### Bugs
+
+| Bug | Status | Description | Steps To Resolve |
+| --- | --- | --- | --- |
+| Hamburger menu not at the same spot | Ongoing | The button is moving while changing device | Gothrough CSS
+| Text centered | Ongoing | Text centered and hard to read | align text to the sides |
+| Images too big and site not responsive | Resolved |  | 
+
 
 
 
