@@ -303,6 +303,14 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 * The YouTube videos on the Tifo Pages are from [DIF Västerort](https://www.youtube.com/watch?v=M8yLrBLfejk) and [DIF Nytt](https://www.youtube.com/watch?v=vPkJQ801mG0)
 
+<a id=thank-you></a>
+
+### Thank You
+
+* My wife and family
+* Djurgårdens IF for everything
+* Sofialäktaren Tifo
+* Slack Community 
 
 
 
