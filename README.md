@@ -21,9 +21,9 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
    * [The Skeleton](#the-skeleton)
    * [The Surface](#the-surface)
 *   [User Experience](#user-experience) 
-   * [First Time User](#first-time-user)
-   * [Returning User](#returning-user)
-   * [Frequent User](frequent-user)
+    * [First Time User](#first-time-user)
+    * [Returning User](#returning-user)
+    * [Frequent User](#frequent-user)
 *  [Feauters](#feauters)
    * [Header and Navigation Bar](#header-navigation)
    * [The Main Page](#the-main-page)
@@ -86,9 +86,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
      * [Wireframes Mobile](/documents/wireframes/Mobile/)
 
     
-  
-
-  <a id=#the-surface></a>
+  <a id=the-surface></a>
 
 ### The Surface
 
@@ -105,34 +103,31 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
    <a id=user-experience></a>
 
    # User Experience
+
+   <a id=first-time-user></a>
     
-    <a id=first-time-user></a>
+   ### First Time User
 
-    ### First Time User
+   * As a first time user I would like to easily find what I´m looking for in the menu
+   * As a first time user I would like to get entertained
+   * As a first time user I would like to feel at home on the website
 
-    * As a first time user I would like to easily find what I´m looking for
-    * As a first time user I would like to get entertained
-    * As a first time user I would like to feel at home on the website
+   <a id=returning-user>
 
-    <a id=returning-user>
+### Returning User
 
-    ### Returning User
+* As a returning user I would love to see the images again
+* As a returning user I would loose myself in the videos again
+* As a returning user I´m hoping for new content
 
-    * As a returning user I would love to see the images again
-    * As a returning user I would loose myself in the videos
-    * As a returning user I´m hoping for new content
+<a id=frequent-user>
 
-      <a id=frequent-user>
+### Frequent User
 
-    ### Frequent User
+* As a frequent user, I want the site to evolve while maintaining a familiar feel
+* As a frequent user, I'd like more voting options and the possibility of participating in competitions
+* As a frequent user, I wish to have the option to purchase merchandise.
 
-    * As a frequent user, I want the site to evolve while maintaining a familiar feel
-    * As a frequent user, I'd like more voting options and the possibility of participating in competitions
-    * As a frequent user, I wish to have the option to purchase merchandise.
-
-
-
-   
 
 # Features
 
