@@ -80,7 +80,7 @@ body {
 /*hamburger menu*/
 
 .toggle-button {
-    position:absolute;
+    position: absolute;
     top: auto;
     right: 1rem;
     flex-direction: column;
@@ -175,7 +175,7 @@ main {
     justify-content: space-between;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 1em 1em 1em 1em; 
+    margin: 1em 1em 1em 1em;
     text-align: left;
 }
 
@@ -212,6 +212,7 @@ main {
 .tifo-title {
     padding: 1rem 1rem 1rem 1rem;
 }
+
 /*tifo 123*/
 
 .tifocontainer {
@@ -398,12 +399,11 @@ main {
 
     .infobox {
         margin: 2rem 0rem 2rem 2rem;
- }
+    }
 
 }
 
-/*make images larger on bigger screens*/
-@media (min-width: 768px) {
+*make images larger on bigger screens*/ @media (min-width: 768px) {
 
     .tifocontainer img {
         width: 599px;
@@ -413,7 +413,10 @@ main {
 
 /* For screens smaller than 600 pixels */
 @media screen and (max-width: 600px) {
-    .tifoheader p, .about-thesite p {
-        text-align: left; /* Left alignment for smaller screens */
+
+    .tifoheader p,
+    .about-thesite p {
+        text-align: left;
+        /* Left alignment for smaller screens */
     }
 }
