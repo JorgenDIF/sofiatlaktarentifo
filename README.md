@@ -25,7 +25,9 @@
 *   [Testing](#testing)
     * [Manual Testing](#manual-testing)
     * [Lighthouse](#lighthouse)
+    * [Validation](#validation)
     * [Bugs](#bugs)
+*   [Deployment](#depoyment) 
      
 
 <a id=introduction></a>
@@ -205,15 +207,44 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 ![img](assets/images/Lighthousetrest.png)
 
+ <a id=validation>
+
+### Validation
+
+
+ * Performed a HTML validation that showed no errors or warnings on any of the 5 pages
+ * Performed a CSS validation that showed no errors or warnings
+
 <a id=bugs></a>
 
 ### Bugs
 
 | Bug | Status | Description | Steps To Resolve |
 | --- | --- | --- | --- |
-| Hamburger menu not at the same spot | Ongoing | The button is moving while changing device | Gothrough CSS
-| Text centered | Ongoing | Text centered and hard to read | align text to the sides |
-| Images too big and site not responsive | Resolved |  | 
+| Hamburger menu not at the same spot | Ongoing | The button is moving while changing device | Go through CSS
+| Text centered | Ongoing | Text centered is hard to read | Align text to the sides |
+| Images too big and site not responsive | Resolved | The images was to big and not in order  | Used flexbox and resized images |
+| The vote page had empty space on big screen | Resolved | The images on the page was in a column  | Used media device to get them in a row while on bigger screens |
+
+<a id=deployment></a>
+
+# Deployment
+
+<a id=deployed-to-github></a>
+
+### Deployed To Github
+  
+  * Once code has been completed, it is pushed to Github for deployment using the pages feature. The site is now accessible via: [Sofialaktarentifo](https://jorgendif.github.io/sofiatlaktarentifo/index.html)
+
+   Steps needed to deploy
+
+* Navigate to the repository on github and click settings.
+* Then select pages on the side navigation.
+* Select the none dropdown, and then click main.
+* Click on the save button.
+* If any changes are required, they can be done, commited and pushed to GitHub and the changes  will be updated.
+
+
 
 
 
