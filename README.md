@@ -21,13 +21,15 @@
    * [Feauters Left To Implement](#feauters-left-to-implement)
 *   [Technologies](#technologies)
     * [Language](#language) 
-    * [Tools](#tools) 
+    * [Tools](#tools)
+    * [Frameworks & Libaries](#frameworks-libaries) 
 *   [Testing](#testing)
     * [Manual Testing](#manual-testing)
     * [Lighthouse](#lighthouse)
     * [Validation](#validation)
     * [Bugs](#bugs)
-*   [Deployment](#depoyment) 
+*   [Deployment](#deployment) 
+     * [Deployment To Github](#deployment-to-github)
      
 
 <a id=introduction></a>
@@ -175,6 +177,12 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
    * HTML Validator
    * CSS Validator
 
+   <a id=frameworks-libaries>
+
+ ### Frameworks & Libaries
+   * [Favicon](https://favicon.io/)
+   * [Fontawesome](https://fontawesome.com/)
+
 <a id=testing>
 
  # Testing 
@@ -195,7 +203,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 | Hamburger button in mobilemode | Opens menu | Press Hamburger| Opens menu |
 | Submit Button in the vote page | Takes you to thank you page| Press Submit Button | Not ready yet |
 | Links in the Footer | Takes you to social media| Press any of the buttons | Navigates to the right social media site |
-| Links to photo scourses | Takes you to scourses| Press link Button | Navigates to the scourse |
+| Links to photo sources | Takes you to sources| Press link Button | Navigates to the source |
 | Youtube videos | Plays the videos | Press play | Videos starts |
 
 <a id=lighthouse></a>
@@ -211,9 +219,7 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 ### Validation
 
-
- * Performed a HTML validation that showed no errors or warnings on any of the 5 pages
- * Performed a CSS validation that showed no errors or warnings
+* I did a HTML
 
 <a id=bugs></a>
 
@@ -230,9 +236,9 @@ Let's be honest—the football in the Swedish league isn't top-tier; Allsvenskan
 
 # Deployment
 
-<a id=deployed-to-github></a>
+<a id=deployment-to-github></a>
 
-### Deployed To Github
+### Deployment To Github
   
   * Once code has been completed, it is pushed to Github for deployment using the pages feature. The site is now accessible via: [Sofialaktarentifo](https://jorgendif.github.io/sofiatlaktarentifo/index.html)
 
