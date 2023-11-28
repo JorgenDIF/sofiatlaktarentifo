@@ -225,7 +225,7 @@ main {
 
 .tifocontainer img {
 
-    width: 280px;
+    width: 350px;
     height: 100%;
     border-radius: 25px;
     padding: 2px 2px 2px
@@ -256,8 +256,8 @@ main {
 }
 
 .tifo-video iframe {
-    max-width: 80%;
-    max-height: 80%;
+    max-width: 90%;
+    max-height: 90%;
     border-radius: 25px;
 }
 
@@ -282,8 +282,8 @@ main {
 }
 
 .vote-container img {
-    width: 280px;
-    height: auto;
+    width: 400px;
+    height: 100%;
     border-radius: 25px;
     padding: 2px 2px 2px 2px;
     ;
@@ -403,7 +403,7 @@ main {
 
 }
 
-*make images larger on bigger screens*/ @media (min-width: 768px) {
+/*make images larger on bigger screens*/ @media (min-width: 768px) {
 
     .tifocontainer img {
         width: 599px;
